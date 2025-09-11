@@ -40,7 +40,7 @@
         "maxDgPercent": 4,
         "minDemand": 2,
         "minItemValueSend": 3000,
-        "minItemValueRequest": 5000,
+        "minItemValueRequest": 3000,
         "tags": [
             "upgrade",
             "downgrade",
