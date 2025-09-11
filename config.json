@@ -24,7 +24,7 @@
         "downgrade": false,
         "any": true,
         "onlyTagsNoReceiveItems": true,  
-        "minSendItems": 1,
+        "minSendItems": 4,
         "maxSendItems": 4,
         "minReceiveItems": 1,
         "maxReceiveItems": 4,
@@ -40,7 +40,7 @@
         "maxDgPercent": 4,
         "minDemand": 2,
         "minItemValueSend": 3000,
-        "minItemValueRequest": 3000,
+        "minItemValueRequest": 5000,
         "tags": [
             "upgrade",
             "downgrade",
